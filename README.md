@@ -29,7 +29,7 @@
 
 📘 The little book on REST Services, by Kenneth Lange, 2016
 
-📔: Pro Git, by Scott Chacon and Ben Straub, 2021 
+📔 Pro Git, by Scott Chacon and Ben Straub, 2021 
 
 📽️ <a link='https://www.youtube.com/watch?v=SZHvMXwvhhs&list=PLKp9IFVoltbDtZkVPGqwXZLwiSc29DlHu&index=1'> selenium tutorial: by mohamad monfared </a>
 <!---
