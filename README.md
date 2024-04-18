@@ -26,11 +26,12 @@
 
 
 # Interesting books / Pages 
- :blue_book: The little book on REST Services, by Kenneth Lange, 2016
 
-:notebook_with_decorative_cover: Pro Git, by Scott Chacon and Ben Straub, 2021 
+📘 The little book on REST Services, by Kenneth Lange, 2016
 
-:selenium tutorial: by mohamad monfared <a link='https://www.youtube.com/watch?v=SZHvMXwvhhs&list=PLKp9IFVoltbDtZkVPGqwXZLwiSc29DlHu&index=1'> link </a>
+📔: Pro Git, by Scott Chacon and Ben Straub, 2021 
+
+📽️ <a link='https://www.youtube.com/watch?v=SZHvMXwvhhs&list=PLKp9IFVoltbDtZkVPGqwXZLwiSc29DlHu&index=1'> selenium tutorial: by mohamad monfared </a>
 <!---
 yahyapour319/yahyapour319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
