@@ -2,10 +2,10 @@
 
 - 👀 I’m interested in :computer: , :camping: , :desert_island: , :open_book: , :bicyclist:
 - 💞️ I’m looking to collaborate on IT companies as a QA(Software Test Enginer)
-- 👀 How to check my selenium sample code : <a href='https://github.com/yahyapour319/python-selenium-samples'> selenium sample code repository </a>
--  📫 How to reach me Yahyapour.s319@gmail.com
+- 👀 How to check my selenium sample code: <a href='https://github.com/yahyapour319/python-selenium-samples'> selenium sample code repository </a>
+-  📫 How to reach me: Yahyapour.s319@gmail.com
     
-- :page_facing_up: Know about my experiences  www.linkedin.com/in/samaneh-yahyapour
+- :page_facing_up: Know about my experiences:  www.linkedin.com/in/samaneh-yahyapour
 
 # Languages and Tools:
 <p align="left">
@@ -29,6 +29,8 @@
  :blue_book: The little book on REST Services, by Kenneth Lange, 2016
 
 :notebook_with_decorative_cover: Pro Git, by Scott Chacon and Ben Straub, 2021 
+
+:selenium tutorial: by mohamad monfared <a link='https://www.youtube.com/watch?v=SZHvMXwvhhs&list=PLKp9IFVoltbDtZkVPGqwXZLwiSc29DlHu&index=1'> link </a>
 <!---
 yahyapour319/yahyapour319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
