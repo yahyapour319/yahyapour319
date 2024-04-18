@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in :computer: , :camping: , :desert_island: , :open_book: , :bicyclist:
 - 💞️ I’m looking to collaborate on IT companies as a QA(Software Test Enginer)
-    -<a href='https://github.com/yahyapour319/python-selenium-samples'>to seen my python-selenium-sample </a>
+- 👀 <a href='https://github.com/yahyapour319/python-selenium-samples'> my python selenium sample code </a>
 -  📫 How to reach me Yahyapour.s319@gmail.com
     
 - :page_facing_up: Know about my experiences  www.linkedin.com/in/samaneh-yahyapour
