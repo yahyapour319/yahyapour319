@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Samaneh
 
 - 👀 I’m interested in :computer: , :camping: , :desert_island: , :open_book: , :bicyclist:
-- 🌱 I’m currently learning micro service architecture
-- 💞️ I’m looking to collaborate on IT companies
+- 💞️ I’m looking to collaborate on IT companies as a QA(Software Test Enginer)
 - 📫 How to reach me Yahyapour.s319@gmail.com
     
 - :page_facing_up: Know about my experiences  www.linkedin.com/in/samaneh-yahyapour
