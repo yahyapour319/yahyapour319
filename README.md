@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Samaneh
 
-- 👱‍♀️ I’m interested in :computer: , :camping: , :desert_island: , :open_book: , :bicyclist:
-- ✋ I’m looking to collaborate as a QA(Software Test Enginer)
+- 👩‍💻 I’m interested in :computer: , :camping: , :desert_island: , :open_book: , :bicyclist:
+- 🤝 I’m looking to collaborate as a QA(Software Test Enginer)
 - 👀 How to check my selenium sample code: <a href='https://github.com/yahyapour319/python-selenium-samples'> selenium sample code repository </a>
 -  📫 How to reach me: Yahyapour.s319@gmail.com
     
