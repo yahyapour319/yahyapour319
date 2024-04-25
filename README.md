@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Samaneh
+2# 👋 Hi, I’m Samaneh
 
 - 👩‍💻 I’m interested in :computer: , :camping: , :desert_island: , :open_book: , :bicyclist:
 - 🤝 I’m looking to collaborate as a QA(Software Test Enginer)
@@ -29,7 +29,10 @@
 
 📘 The little book on REST Services, by Kenneth Lange, 2016
 
-📔 Pro Git, by Scott Chacon and Ben Straub, 2021 
+📔 Pro Git, by Scott Chacon and Ben Straub, 2021
+
+📘 Lessons Learned in software testing, by Cem Kaner, James Bach, Bert Pettichord
+
 
 📽️ <a href='https://www.youtube.com/watch?v=SZHvMXwvhhs&list=PLKp9IFVoltbDtZkVPGqwXZLwiSc29DlHu&index=1'> selenium tutorial: by mohamad monfared </a>
 <!---
